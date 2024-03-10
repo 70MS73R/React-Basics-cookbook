@@ -7,3 +7,4 @@ https://tomscookbookproject.netlify.app
 BE AWARE:
 The data used (in utils/data.js) is provided by the school. it is possible that this data is not correct. That does not matter though. Its all about how we can use this data and work with it.
 
+Feedback can be either in english or in dutch.
